@@ -1,0 +1,6 @@
+a.out
+io.c
+ls.txt
+a.out
+io.c
+ls.txt
